@@ -8,7 +8,7 @@
 
 #### [Merit Certificate Awarded for exceptional performace in Board Examinations](merit.pdf)
 
-#### [Runner up certificate in a design competition conducted by Apollo tyres](revolve.pdf)
+#### [Runner up certificate in a design competition ('Revolve') conducted by Apollo tyres](revolve.pdf)
 
 #### [eCore Series track certification](certificateurrobot.pdf)
 
