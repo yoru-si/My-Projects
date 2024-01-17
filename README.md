@@ -15,3 +15,4 @@
 #### [Runner up certificate in a design competition ('Revolve') conducted by Apollo tyres](revolve.pdf)
 #### [Merit Certificate Awarded for exceptional performace in Board Examinations](merit.pdf)
 #### [eCore Series track certification](certificateurrobot.pdf)
+#### [Letter Of Recommendation during my time as a coordinator in Alumni Affairs (student body)](lor.pdf)
