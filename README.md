@@ -18,5 +18,5 @@
 
 
 ## Recommendation Letters:
-#### [Letter Of Recommendation during my time as a coordinator in Alumni Affairs (student body)](lor.pdf)
+#### [Letter Of Recommendation during my time as a coordinator in Alumni Affairs (student body)](lor.pdf){:target="_blank"}
 #### [Letter of Recommendation for excellent performance and top grade ('S') in the course 'Robotics and Automation'.](lor_cmu.pdf)
