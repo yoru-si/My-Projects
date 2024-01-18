@@ -15,4 +15,8 @@
 #### [Runner up certificate in a design competition ('Revolve') conducted by Apollo tyres](revolve.pdf)
 #### [Merit Certificate Awarded for exceptional performace in Board Examinations](merit.pdf)
 #### [eCore Series track certification](certificateurrobot.pdf)
+
+
+## Recommendation Letters:
 #### [Letter Of Recommendation during my time as a coordinator in Alumni Affairs (student body)](lor.pdf)
+#### [Letter of Recommendation for excellent performance and top grade ('S') in the course 'Robotics and Automation'.](lor_cmu.pdf)
