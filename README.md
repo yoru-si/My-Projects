@@ -1,4 +1,4 @@
-### Project Reports
+## Project Reports
 #### [Indoor localization and protocol design certificate](certificate-srikrishna.pdf){:target="_blank"}
 #### [Project Report on LU and CR factorization techniques](LU-CR.pdf){:target="_blank"}
 #### [Project report on learning dynamics of Gradient Descent in Deep Neural Networks](Learning_Dynamics_of_GD_in_DL.pdf){:target="_blank"}
