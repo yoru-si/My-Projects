@@ -11,6 +11,10 @@
 #### [Runner up certificate in a design competition ('Revolve') conducted by Apollo tyres](revolve.pdf){:target="_blank"}
 #### [Merit Certificate Awarded for exceptional performace in Board Examinations](merit.pdf){:target="_blank"}
 #### [eCore Series track certification](certificateurrobot.pdf){:target="_blank"}
+#### [Design for Sustainability](Design_for_sustainability.pdf){:target="_blank"}
+#### [Introduction to Industry 4.0 and Technologies](intro4andtech.pdf){:target="_blank"}
+#### [Industry 4.0 and Business](business.pdf){:target="_blank"}
+#### [Digital Literacy and Data Skills](literacyskills.pdf){:target="_blank"}
 
 
 ## Recommendation Letters
