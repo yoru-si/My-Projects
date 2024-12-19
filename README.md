@@ -5,7 +5,7 @@
 #### [Data Science Project- Movie Recommendation using K-nearest neighbours model](ds_project.pdf){:target="_blank"}
 #### [Technical Report for ROV Cholan as a part of team 'Mechanical Sophomores'](<ROV Cholan convocation documentation.pdf>){:target="_blank"}
 #### [Technical Report on ROV Marty submitted to MATE ROV-2023 ](AUVSociety_TeamNira_TechnicalDocumentation_2023.pdf){:target="_blank"}
-#### [Multiscale modeling of materials using machine learning project report ](AUVSociety_TeamNira_TechnicalDocumentation_2023.pdf){:target="_blank"}
+#### [Multiscale modeling of materials using machine learning project report ](mmmml.docx.pdf){:target="_blank"}
 
 
 ## Awards and Certificates
